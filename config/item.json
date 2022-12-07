@@ -1,0 +1,72 @@
+{
+    "vukhi": {
+      "001":"<:BuaTanThu_1sao:989209040443830323>",
+      "002":"<:KiemTanThu_2sao:989209062157717506>",
+      "003":"<:KiemSoCap_1sao:989459661176598578>",
+      "004":"<:KiemSoCap_2sao:989459732890787950>",
+      "005":"<:QuatTrungCap_1sao:989459773634265108>",
+      "006":"<:ChuyTrungCap_2sao:989459798871404565>",
+      "007":"<:KiemTrungCap_3sao:989459822015553556>",
+      "008":"<:CaoCap_UyChanDao_1sao:989459870396870676>",
+      "009":"<:CaoCap_QuatThienSu_2sao:989459910184009748> ",
+      "010":"<:CaoCap_BaThienChuy_3sao:989459945709789208>",
+      "011":"<:DauGia_ThanKiem_4sao:989459970254843904>",
+      "012":"<:DauSu_UMinhPhien_1sao:989459996335042614>",
+      "013":"<:DaiDauSu_KinhMinhChuy_2sao:989460045676814346>",
+      "014":"<:DauLinh_DaMinhDao_3sao:989460074848210994>",
+      "015":"<:DauVuong_QuatBaTieu_4sao:989484564835627008>",
+      "016":"<:DauHoang_KhaiSonChuy_5sao:989484586817962034>",
+      "017":"<:DauTong_DaoHuyenVu_6sao:989484611291725896>",
+      "018":"<:DauTon_PhuongHoangPhien_7sao:989484628903612427>",
+      "019":"<:DauThanh_RiuBachHo_8sao:989484646268026910>",
+      "020":"<:DauDe_KiemThanhLong_9sao:989484663183650876>"
+    },
+      "daren": {
+      "daxanh":"<:DaXanh:992152828745371719>",
+      "dado":"<:DaDo:992152854238335016>",
+      "cuonghoa":"<:DaCuongHoa:989109642489638952>",
+      "tinhluyen":"<:DaTinhLuyen:989109963282587649>",
+      "than_tinhluyen":"<:ThanThach_DaTinhLuyen:989111520812232724>",
+      "trangsuc":"<:DaTrangSuc:989110004718120990>",
+      "trangbi":"<:DaTrangBi:989110130324938803>",
+      "vukhi":"<:DaVuKhi:991629364846403654>", 
+      "trangsuctinhxao":"<:DaTrangSucTinhXao:989110096518852638>",
+      "trangbitinhxao":"<:DaTrangBiTinhXao:989110189422702612>",
+      "trangbitrungcap":"<:DaTrangBiTrungCap:989110275829559316>",
+      "vukhitrungcap":"<:DaVuKhiTrungCap:989110246519758888>",
+      "vukhichuyendung":"<:DaRenVuKhiChuyenDung:991632707744440460>", 
+      "thankhi":"<:DaRenThanKhi:991632728602722324>",
+      "ngusac":"<:DaNguSac:989110158300958760>"
+    },
+    "honkhi":{
+      "001":"<:KiemHon:989109872735977492>",
+      "002":"<:GiapHon:989109844587986984>",
+      "003":"<:NhanHon:989109821640953896>",
+      "004":"<:LienHon:989109800715583518>",
+      "005":"<:ThanhKiemHon:989109778171199488>", 
+      "006":"<:ThanhKhoiHon:989109757300314152>", 
+      "007":"<:ThanhNhanHon:989109721183170570>", 
+      "008":"<:ThanhLienHon:989109690606690374>"
+    },
+      "tieuhao": {
+      "exp":"<:KinhNghiem:991865899462184960>",
+      "thuhon":"<:ThuHon:991633698300624956>",
+      "thucaunguyen":"<:ThuCauNguyen:989111707945275485>",
+      "trieuhoithanthu":"<:TheTrieuHoiThanThu:989110035550461963>", 
+      "thequaymayman":"<:TheQuayMayMan:991633315268395068>",
+      "thehoisinhtuong":"<:TheHoiSinhTuong_VIP:989111564248420373>", 
+      "nuocmat":"<:NuocMatNuThan:989111590148276285>",
+      "ngoctangexp":"<:NgocTangExp:989110216350113792>",
+      "mana":"<:BinhMaNa:989110059722240030>",
+      "khieuchien":"<:LenhBaiKhieuChien:989111755743567913>", 
+      "chieumo":"<:LenhBaiChieuMo:991633427168231505>",
+      "chieumo":"<:LenhBaiChieuMoCaoCap:991633411166978068>", 
+      "hoptanthu":"<:HopTrangBiTanThu:989109669261901844>",
+      "hoptrangsuccc":"<:HopTrangSucCaoCap:989111416428593192>", 
+      "hopvukhicc":"<:RuongVuKhiCaoCap:989111488834859009>",
+      "hoptrangbicc":"<:RuongTrangBiCaoCap:989111452315025429>"
+    },
+    "nhanvat" : {
+      "001" : "aloha"
+    }
+}
