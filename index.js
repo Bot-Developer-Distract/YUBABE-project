@@ -106,4 +106,4 @@ process.on("uncaughtException", (err, origin) => {
   console.log(err, origin)
 })
 
-client.login("MTAwNTY4Nzc1OTY4MTM1OTg4Mw.GUj31H.pr1Q89DnMvs-8apPTL_eYnCnfatIcfOMKkt9oE");
+client.login("");
